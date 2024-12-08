@@ -105,8 +105,7 @@ Location: `data/price-data`
     python esg_investing_application.py
 
 ##  Acknowledgments
- -
- ESG data sourced via Bloomberg Terminal.
+- ESG data sourced via Bloomberg Terminal.
  
 - Financial models inspired by the Fama-French methodology.
 
